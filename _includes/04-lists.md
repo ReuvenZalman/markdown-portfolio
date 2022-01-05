@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+- [ ] this
+- [ ] is
+- [ ] a
+- [ ] list
+- [ ] Big
+- [ ] Brain
+- [ ] Time
+  - BA
+  - NA
+  - NA
